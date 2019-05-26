@@ -1,0 +1,2 @@
+# alerting_municipal_employess
+this project is about to keep clean ur public bin when they are filled.Usually when the dustbin are filled up totally... People would choose to throw the trash around the dustbin.. These might lead to untidy and due to the smell of the trash the people may feel insecure to walk over their and may get some sort of mild diseases. the device can sent an msg alert to the municipal coorporation so that than easy clean it with in a short span of time.
